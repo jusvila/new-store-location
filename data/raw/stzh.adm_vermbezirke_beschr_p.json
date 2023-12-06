@@ -1,0 +1,336 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "stzh.adm_vermbezirke_beschr_p",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5704034113, 47.3630568387 ]
+			},
+			"properties" : {
+				"objid" : "1",
+				"name" : "Hirslanden",
+				"kuerzel" : "HI",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.6008869261, 47.3599765361 ]
+			},
+			"properties" : {
+				"objid" : "2",
+				"name" : "Witikon",
+				"kuerzel" : "WI",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.509313258, 47.3314802815 ]
+			},
+			"properties" : {
+				"objid" : "3",
+				"name" : "Leimbach",
+				"kuerzel" : "LE",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5329555824, 47.3414911405 ]
+			},
+			"properties" : {
+				"objid" : "4",
+				"name" : "Wollishofen",
+				"kuerzel" : "WO",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5331395744, 47.3609312211 ]
+			},
+			"properties" : {
+				"objid" : "5",
+				"name" : "Enge",
+				"kuerzel" : "EN",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5562410091, 47.3545703201 ]
+			},
+			"properties" : {
+				"objid" : "6",
+				"name" : "Riesbach",
+				"kuerzel" : "RI",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5092214171, 47.4232808331 ]
+			},
+			"properties" : {
+				"objid" : "7",
+				"name" : "Affoltern",
+				"kuerzel" : "AF",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5428304697, 47.4236954049 ]
+			},
+			"properties" : {
+				"objid" : "8",
+				"name" : "Seebach",
+				"kuerzel" : "SE",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5451168005, 47.4093482658 ]
+			},
+			"properties" : {
+				"objid" : "9",
+				"name" : "Oerlikon",
+				"kuerzel" : "OE",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4964235871, 47.4079039826 ]
+			},
+			"properties" : {
+				"objid" : "10",
+				"name" : "Höngg",
+				"kuerzel" : "HG",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5394722601, 47.3968007737 ]
+			},
+			"properties" : {
+				"objid" : "11",
+				"name" : "Unterstrass",
+				"kuerzel" : "UN",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5254693221, 47.3962326576 ]
+			},
+			"properties" : {
+				"objid" : "12",
+				"name" : "Wipkingen",
+				"kuerzel" : "WP",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5734009465, 47.40278828 ]
+			},
+			"properties" : {
+				"objid" : "13",
+				"name" : "Schwamendingen",
+				"kuerzel" : "SW",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5542342501, 47.3923039528 ]
+			},
+			"properties" : {
+				"objid" : "14",
+				"name" : "Oberstrass",
+				"kuerzel" : "OB",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5216556748, 47.3796896477 ]
+			},
+			"properties" : {
+				"objid" : "15",
+				"name" : "Aussersihl",
+				"kuerzel" : "AU",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5419914548, 47.3728336285 ]
+			},
+			"properties" : {
+				"objid" : "16",
+				"name" : "Altstadt",
+				"kuerzel" : "AA",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5632757809, 47.38212986 ]
+			},
+			"properties" : {
+				"objid" : "17",
+				"name" : "Fluntern",
+				"kuerzel" : "FL",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5830093981, 47.3790122757 ]
+			},
+			"properties" : {
+				"objid" : "18",
+				"name" : "Hottingen",
+				"kuerzel" : "HO",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.507746717, 47.360584554 ]
+			},
+			"properties" : {
+				"objid" : "19",
+				"name" : "Wiedikon",
+				"kuerzel" : "WD",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.522207553, 47.3884063518 ]
+			},
+			"properties" : {
+				"objid" : "20",
+				"name" : "Industriequartier",
+				"kuerzel" : "IQ",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4842783217, 47.3705934339 ]
+			},
+			"properties" : {
+				"objid" : "21",
+				"name" : "Albisrieden",
+				"kuerzel" : "AR",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4814263642, 47.3897682867 ]
+			},
+			"properties" : {
+				"objid" : "22",
+				"name" : "Altstetten",
+				"kuerzel" : "AL",
+				"ori" : 0,
+				"hali" : "1",
+				"vali" : "2"
+			}
+		}
+	]
+}
