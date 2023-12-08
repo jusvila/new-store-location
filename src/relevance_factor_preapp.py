@@ -85,16 +85,16 @@ KPIs = pd.DataFrame(list(zip(np.arange(1,13), a_1, a_2, a_3, a_4)), columns =['K
 left_column, right_column = st.columns(2)
 
 weights = np.zeros(4)
-left_column.markdown("**a_1, MIGROS MARKET SHARE: Number of Migros stores in a Kreis / Total number of supermakets** (the lower, the better).")
+left_column.markdown("**a_1, MIGROS MARKET SHARE:** Number of Migros stores in a Kreis / Total number of supermakets (the lower, the better).")
 weights[0] = -1.0 * left_column.number_input("Enter weight w_1:", min_value=0.0, max_value=10.0, value=1.0, step=0.5)
 
-left_column.markdown("**a_2, CURRENT POPULATION DENSITY: Current population density in the Kreis / Population density of Zürich** (the higher, the better).")
+left_column.markdown("**a_2, CURRENT POPULATION DENSITY:** Current population density in the Kreis / Population density of Zürich (the higher, the better).")
 weights[1] = left_column.number_input("Enter weight w_2:", min_value=0.0, max_value=10.0, value=1.0, step=0.5)
 
-right_column.markdown("**a_3, INCOME LEVEL: Average income in the Kreis / Current average income in Zürich** (the higher, the better).")
+right_column.markdown("**a_3, INCOME LEVEL:** Average income in the Kreis / Current average income in Zürich (the higher, the better).")
 weights[2] = right_column.number_input("Enter weight w_3:", min_value=0.0, max_value=10.0, value=1.0, step=0.5)
 
-right_column.markdown("**a_4, FUTURE POPULATION DENSITY: Prediction (2040) of population density change / Population density of Zürich** (the higher, the better).")
+right_column.markdown("**a_4, FUTURE POPULATION DENSITY:** Prediction (2040) of population density change / Population density of Zürich (the higher, the better).")
 weights[3] = right_column.number_input("Enter weight w_4:", min_value=0.0, max_value=10.0, value=1.0, step=0.5)
 
 
